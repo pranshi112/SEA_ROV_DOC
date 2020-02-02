@@ -3,4 +3,6 @@
 ### OpenCV
 
 > 1. Install OpenCV
-> -    pip install opencv-python
+> - '''javascript
+pip install opencv-python
+'''
