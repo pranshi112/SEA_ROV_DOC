@@ -3,7 +3,7 @@
 ### OpenCV
 
 > 1. Install OpenCV.
-> - 'pip install opencv-python'
+> - pip install opencv-python
 > 2. Run OpenCV to access camera.
 
 ### Resources Learnt
@@ -34,7 +34,7 @@ IDLE (Integrated Development and Learning Environment) is an integrated developm
 ### Resources Learnt 
 #### Git and Github
 
-Git is a distributed version control tool that can manage a development project's source code history, while GitHub is an online service that stores code pushed to it from computers running the Git tool.(https://www.youtube.com/watch?v=WbwIoQYP6no)
+Git is a distributed version control tool that can manage a development project's source code history, while GitHub is an online service that stores code pushed to it from computers running the Git tool.[![GIT AND GITHUB](http://img.youtube.com/vi/watch?v=WbwIoQYP6no/0.jpg)](http://www.youtube.com/watch?v=WbwIoQYP6no)
 
 #### Markdown format
  
