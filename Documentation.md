@@ -55,7 +55,7 @@ Visual Studio Code is a lightweight but powerful source code editor. [Learn More
 
 ### Steps Taken
 
-> 1. Open the Visual studio code and install the __python extension__.
+> 1. Download Visual studio code([click here](https://code.visualstudio.com/)) and install the __python extension__ in it.
 > 2. Create a new python file and write the code for colour detection using OpenCV-python.
 
 [![COLOUR DETECTION](http://img.youtube.com/vi/Q0IPYlIK-4A/0.jpg)](http://www.youtube.com/watch?v=Q0IPYlIK-4A)
